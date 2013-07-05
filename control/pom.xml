@@ -46,7 +46,7 @@
         <configuration>
             <mainClass>org.jbundle.base.screen.control.swing.activator.Main</mainClass> <!-- These properties are declared in my parent pom (jbundle-util-webapp-webstart) -->
             <arguments>
-              <argument>menu=dev.tourapp.com</argument>
+              <argument>menu=dev.tourgeek.com</argument>
               <argument>background=backgrounds/worldmapalpha.gif</argument>
               <argument>backgroundcolor=#EEEEFF</argument>
               <argument>remotehost=localhost</argument>

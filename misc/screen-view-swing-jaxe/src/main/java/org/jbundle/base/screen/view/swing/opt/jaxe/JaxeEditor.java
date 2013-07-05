@@ -41,7 +41,7 @@ public class JaxeEditor
     public static final String TEMP_TAG_NAME = "HELP";
     public static final String START_TEMP_TAG = "<" + TEMP_TAG_NAME + ">";
     public static final String END_TEMP_TAG = "</" + TEMP_TAG_NAME + ">";
-//    public static final String SCHEMA_PATH = "/var/tourapp/java/other/jaxe/src/jaxe/dist/Jaxe/config/";
+//    public static final String SCHEMA_PATH = "/var/tourgeek/java/other/jaxe/src/jaxe/dist/Jaxe/config/";
     public static final String SCHEMA_PATH = "docs/styles/xsl/jaxe/";
     
     protected VCannedBox m_control = null;
