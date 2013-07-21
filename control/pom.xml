@@ -77,16 +77,16 @@
     <dependency>
       <groupId>org.jbundle.base.db</groupId>
       <artifactId>org.jbundle.base.db.client</artifactId>
-      <version>${jbundle-version}</version>
+      <version>${jbundle-version-range}</version>
     </dependency>
     <dependency>
       <groupId>org.jbundle.thin.base.screen</groupId>
-      <version>${jbundle-version}</version>
+      <version>${jbundle-version-range}</version>
       <artifactId>org.jbundle.thin.base.screen.splash</artifactId>
     </dependency>
     <dependency>
       <groupId>org.jbundle.config.dep</groupId>
-      <version>${jbundle-version}</version>
+      <version>${jbundle-version-range}</version>
       <artifactId>jbundle-config-dep-all</artifactId>
       <type>pom</type>
     </dependency>
