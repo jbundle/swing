@@ -11,7 +11,7 @@
 
   <groupId>org.jbundle.base.screen</groupId>
   <artifactId>jbundle-view-swing-reactor</artifactId>
-  <version>1.0.5</version>
+  <version>1.0.6-SNAPSHOT</version>
 
   <packaging>pom</packaging>
   <name>jbundle-view-swing-reactor</name>
@@ -24,7 +24,7 @@
     <url>https://github.com/jbundle/swing</url>
     <connection>scm:git:https://github.com/jbundle/swing</connection>
     <developerConnection>scm:git:https://github.com/jbundle/swing</developerConnection>
-    <tag>jbundle-view-swing-reactor-1.0.5</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <modules>
